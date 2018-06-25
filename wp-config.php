@@ -1,10 +1,9 @@
 <?php
 # Database Configuration
-define( 'DB_NAME', 'wp_hansoninc' );
-define( 'DB_USER', 'hansoninc' );
-define( 'DB_PASSWORD', 'e2VVP9mexAVABmKT' );
-define( 'DB_HOST', '127.0.0.1' );
-define( 'DB_HOST_SLAVE', '127.0.0.1' );
+define( 'DB_NAME', 'docWP' );
+define( 'DB_USER', 'docU' );
+define( 'DB_PASSWORD', 'temp9999' );
+define( 'DB_HOST', 'wp-test01.cupy2mz2vrnl.us-east-1.rds.amazonaws.com' );
 define( 'DB_CHARSET', 'utf8' );
 define( 'DB_COLLATE', 'utf8_unicode_ci' );
 $table_prefix = 'wp_';
